@@ -22,5 +22,5 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParasAtal&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
      
  
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/username=ParasAtal&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ParasAtal&count_private=true&theme=tokyonight&showicons=true)]()
 
