@@ -17,3 +17,6 @@
   <a href="mailto:paras.atal123@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
+
+     
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParasAtal&theme=2077"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
